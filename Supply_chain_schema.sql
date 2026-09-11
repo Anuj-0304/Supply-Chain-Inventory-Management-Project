@@ -105,18 +105,6 @@ CREATE TABLE returns (
 );
 
 
-Select * from categories;
-Select * from customers;
-Select * from inventory;
-Select * from order_items;
-Select count(*) from orders;
-
-SELECT COUNT(*) FROM warehouses;
-SELECT COUNT(*) FROM purchase_orders;
-SELECT COUNT(*) FROM suppliers;
-
-SELECT * FROM suppliers LIMIT 5;
-
 SELECT 'categories' AS table_name, COUNT(*) AS row_count FROM categories
 UNION ALL
 SELECT 'suppliers', COUNT(*) FROM suppliers
