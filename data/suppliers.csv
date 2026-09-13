@@ -1,0 +1,101 @@
+supplier_id,supplier_name,city,state,phone,lead_time_days,quality_score
+SUP0001,TechSource India 1,Pune,Maharashtra,+91-9746317213,3.3,0.946
+SUP0002,Global Office Mart 1,Mumbai,Maharashtra,+91-8051802512,4.7,0.945
+SUP0003,Prime Components 1,Delhi,Delhi,+91-9906402157,10.9,0.913
+SUP0004,Metro Supplies 1,Bengaluru,Karnataka,+91-9536146025,7.1,0.825
+SUP0005,Nova Distribution 1,Hyderabad,Telangana,+91-7939042955,4.8,0.922
+SUP0006,Apex Traders 1,Chennai,Tamil Nadu,+91-9410529190,4.4,0.93
+SUP0007,Brightline Wholesale 1,Ahmedabad,Gujarat,+91-9340505846,7.0,0.896
+SUP0008,Urban Business Supplies 1,Kolkata,West Bengal,+91-8194819984,11.7,0.821
+SUP0009,Vertex Imports 1,Jaipur,Rajasthan,+91-7685731524,10.4,0.878
+SUP0010,Reliable Distributors 1,Lucknow,Uttar Pradesh,+91-7667779376,4.6,0.95
+SUP0011,TechSource India 2,Pune,Maharashtra,+91-7438989805,3.1,0.836
+SUP0012,Global Office Mart 2,Mumbai,Maharashtra,+91-8477278577,9.2,0.957
+SUP0013,Prime Components 2,Delhi,Delhi,+91-8973214822,8.4,0.985
+SUP0014,Metro Supplies 2,Bengaluru,Karnataka,+91-8625792787,2.9,0.87
+SUP0015,Nova Distribution 2,Hyderabad,Telangana,+91-9699987374,9.4,0.966
+SUP0016,Apex Traders 2,Chennai,Tamil Nadu,+91-9479708607,4.3,0.832
+SUP0017,Brightline Wholesale 2,Ahmedabad,Gujarat,+91-9840104345,4.7,0.869
+SUP0018,Urban Business Supplies 2,Kolkata,West Bengal,+91-7342703921,12.3,0.967
+SUP0019,Vertex Imports 2,Jaipur,Rajasthan,+91-8632629719,5.3,0.928
+SUP0020,Reliable Distributors 2,Lucknow,Uttar Pradesh,+91-8566942273,4.0,0.88
+SUP0021,TechSource India 3,Pune,Maharashtra,+91-9878380452,5.2,0.979
+SUP0022,Global Office Mart 3,Mumbai,Maharashtra,+91-9783290795,2.9,0.928
+SUP0023,Prime Components 3,Delhi,Delhi,+91-9294113287,10.7,0.848
+SUP0024,Metro Supplies 3,Bengaluru,Karnataka,+91-8629748727,5.2,0.977
+SUP0025,Nova Distribution 3,Hyderabad,Telangana,+91-9955633092,8.7,0.936
+SUP0026,Apex Traders 3,Chennai,Tamil Nadu,+91-7240251661,4.7,0.825
+SUP0027,Brightline Wholesale 3,Ahmedabad,Gujarat,+91-8354860540,6.8,0.831
+SUP0028,Urban Business Supplies 3,Kolkata,West Bengal,+91-9436019774,12.5,0.873
+SUP0029,Vertex Imports 3,Jaipur,Rajasthan,+91-9815087637,8.0,0.97
+SUP0030,Reliable Distributors 3,Lucknow,Uttar Pradesh,+91-9761027762,7.5,0.865
+SUP0031,TechSource India 4,Pune,Maharashtra,+91-8059257080,10.9,0.912
+SUP0032,Global Office Mart 4,Mumbai,Maharashtra,+91-9510777721,7.1,0.919
+SUP0033,Prime Components 4,Delhi,Delhi,+91-8554762903,4.6,0.99
+SUP0034,Metro Supplies 4,Bengaluru,Karnataka,+91-9188398760,7.9,0.948
+SUP0035,Nova Distribution 4,Hyderabad,Telangana,+91-7470939445,3.8,0.847
+SUP0036,Apex Traders 4,Chennai,Tamil Nadu,+91-9922644564,7.1,0.831
+SUP0037,Brightline Wholesale 4,Ahmedabad,Gujarat,+91-8639042338,9.2,0.9
+SUP0038,Urban Business Supplies 4,Kolkata,West Bengal,+91-8079815404,13.7,0.966
+SUP0039,Vertex Imports 4,Jaipur,Rajasthan,+91-7049310608,10.2,0.839
+SUP0040,Reliable Distributors 4,Lucknow,Uttar Pradesh,+91-9306270004,11.0,0.951
+SUP0041,TechSource India 5,Pune,Maharashtra,+91-8461042543,3.3,0.894
+SUP0042,Global Office Mart 5,Mumbai,Maharashtra,+91-8948728483,2.0,0.943
+SUP0043,Prime Components 5,Delhi,Delhi,+91-8131247330,13.7,0.95
+SUP0044,Metro Supplies 5,Bengaluru,Karnataka,+91-9180476188,13.0,0.968
+SUP0045,Nova Distribution 5,Hyderabad,Telangana,+91-8281810600,12.1,0.906
+SUP0046,Apex Traders 5,Chennai,Tamil Nadu,+91-7854316681,3.8,0.95
+SUP0047,Brightline Wholesale 5,Ahmedabad,Gujarat,+91-9316615266,13.4,0.977
+SUP0048,Urban Business Supplies 5,Kolkata,West Bengal,+91-7002456273,9.2,0.903
+SUP0049,Vertex Imports 5,Jaipur,Rajasthan,+91-7480468219,13.1,0.969
+SUP0050,Reliable Distributors 5,Lucknow,Uttar Pradesh,+91-8320763135,4.9,0.861
+SUP0051,TechSource India 6,Pune,Maharashtra,+91-9436779490,13.4,0.835
+SUP0052,Global Office Mart 6,Mumbai,Maharashtra,+91-9087313121,11.8,0.986
+SUP0053,Prime Components 6,Delhi,Delhi,+91-9287955558,11.2,0.842
+SUP0054,Metro Supplies 6,Bengaluru,Karnataka,+91-9041322270,13.4,0.848
+SUP0055,Nova Distribution 6,Hyderabad,Telangana,+91-9266341635,12.5,0.892
+SUP0056,Apex Traders 6,Chennai,Tamil Nadu,+91-7909666337,13.1,0.948
+SUP0057,Brightline Wholesale 6,Ahmedabad,Gujarat,+91-9962958940,4.4,0.873
+SUP0058,Urban Business Supplies 6,Kolkata,West Bengal,+91-9884873529,9.8,0.894
+SUP0059,Vertex Imports 6,Jaipur,Rajasthan,+91-9222971316,7.4,0.862
+SUP0060,Reliable Distributors 6,Lucknow,Uttar Pradesh,+91-7274989148,6.1,0.92
+SUP0061,TechSource India 7,Pune,Maharashtra,+91-7988335251,9.1,0.821
+SUP0062,Global Office Mart 7,Mumbai,Maharashtra,+91-9710566582,2.7,0.831
+SUP0063,Prime Components 7,Delhi,Delhi,+91-7134917627,12.3,0.832
+SUP0064,Metro Supplies 7,Bengaluru,Karnataka,+91-8022222125,5.3,0.903
+SUP0065,Nova Distribution 7,Hyderabad,Telangana,+91-9315992115,3.6,0.979
+SUP0066,Apex Traders 7,Chennai,Tamil Nadu,+91-9452611418,8.9,0.861
+SUP0067,Brightline Wholesale 7,Ahmedabad,Gujarat,+91-9031403296,11.7,0.852
+SUP0068,Urban Business Supplies 7,Kolkata,West Bengal,+91-7416314667,9.9,0.88
+SUP0069,Vertex Imports 7,Jaipur,Rajasthan,+91-8765670844,7.6,0.944
+SUP0070,Reliable Distributors 7,Lucknow,Uttar Pradesh,+91-9892078691,9.8,0.93
+SUP0071,TechSource India 8,Pune,Maharashtra,+91-7260329455,6.8,0.878
+SUP0072,Global Office Mart 8,Mumbai,Maharashtra,+91-7469306919,5.0,0.852
+SUP0073,Prime Components 8,Delhi,Delhi,+91-8926780541,3.7,0.851
+SUP0074,Metro Supplies 8,Bengaluru,Karnataka,+91-8986972437,5.0,0.977
+SUP0075,Nova Distribution 8,Hyderabad,Telangana,+91-8903232052,11.7,0.966
+SUP0076,Apex Traders 8,Chennai,Tamil Nadu,+91-7420514789,2.6,0.99
+SUP0077,Brightline Wholesale 8,Ahmedabad,Gujarat,+91-7063384488,13.6,0.977
+SUP0078,Urban Business Supplies 8,Kolkata,West Bengal,+91-8015242176,4.0,0.903
+SUP0079,Vertex Imports 8,Jaipur,Rajasthan,+91-7918037633,12.4,0.973
+SUP0080,Reliable Distributors 8,Lucknow,Uttar Pradesh,+91-7707111048,6.5,0.988
+SUP0081,TechSource India 9,Pune,Maharashtra,+91-8139038460,13.1,0.953
+SUP0082,Global Office Mart 9,Mumbai,Maharashtra,+91-8225136114,7.1,0.983
+SUP0083,Prime Components 9,Delhi,Delhi,+91-9387006772,9.9,0.903
+SUP0084,Metro Supplies 9,Bengaluru,Karnataka,+91-7815605132,5.6,0.985
+SUP0085,Nova Distribution 9,Hyderabad,Telangana,+91-9487560384,10.8,0.83
+SUP0086,Apex Traders 9,Chennai,Tamil Nadu,+91-8346922426,2.7,0.919
+SUP0087,Brightline Wholesale 9,Ahmedabad,Gujarat,+91-9159725924,13.0,0.91
+SUP0088,Urban Business Supplies 9,Kolkata,West Bengal,+91-7244295904,13.5,0.834
+SUP0089,Vertex Imports 9,Jaipur,Rajasthan,+91-7798112150,2.8,0.832
+SUP0090,Reliable Distributors 9,Lucknow,Uttar Pradesh,+91-8010193046,6.8,0.98
+SUP0091,TechSource India 10,Pune,Maharashtra,+91-9446737272,5.0,0.921
+SUP0092,Global Office Mart 10,Mumbai,Maharashtra,+91-9660223333,3.0,0.932
+SUP0093,Prime Components 10,Delhi,Delhi,+91-9427631155,8.3,0.979
+SUP0094,Metro Supplies 10,Bengaluru,Karnataka,+91-7877286584,10.0,0.873
+SUP0095,Nova Distribution 10,Hyderabad,Telangana,+91-8140805649,6.7,0.934
+SUP0096,Apex Traders 10,Chennai,Tamil Nadu,+91-8288477634,7.5,0.978
+SUP0097,Brightline Wholesale 10,Ahmedabad,Gujarat,+91-7311570307,2.1,0.926
+SUP0098,Urban Business Supplies 10,Kolkata,West Bengal,+91-9418039268,14.0,0.832
+SUP0099,Vertex Imports 10,Jaipur,Rajasthan,+91-7915490795,8.1,0.843
+SUP0100,Reliable Distributors 10,Lucknow,Uttar Pradesh,+91-8498981529,12.6,0.969

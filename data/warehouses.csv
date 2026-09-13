@@ -1,0 +1,11 @@
+warehouse_id,warehouse_name,city,state,capacity_units
+WH001,Pune Central Warehouse,Pune,Maharashtra,44217
+WH002,Mumbai Central Warehouse,Mumbai,Maharashtra,38676
+WH003,Delhi Central Warehouse,Delhi,Delhi,30338
+WH004,Bengaluru Central Warehouse,Bengaluru,Karnataka,48716
+WH005,Hyderabad Central Warehouse,Hyderabad,Telangana,74640
+WH006,Chennai Central Warehouse,Chennai,Tamil Nadu,55600
+WH007,Ahmedabad Central Warehouse,Ahmedabad,Gujarat,66107
+WH008,Kolkata Central Warehouse,Kolkata,West Bengal,39825
+WH009,Jaipur Central Warehouse,Jaipur,Rajasthan,60086
+WH010,Lucknow Central Warehouse,Lucknow,Uttar Pradesh,72894
